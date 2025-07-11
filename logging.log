@@ -1,6 +1,0 @@
-2025-06-23 14:27:18,201 - WARNING - main - Dia de Trabalho
-2025-06-23 14:28:55,428 - WARNING - main - Dia de Trabalho
-2025-06-23 14:28:55,429 - INFO - main - Iniciando
-2025-06-23 14:28:56,213 -  ERROR  - Erro ao enviar mensagem via Telegram: HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot7820682159:AAEXo2KxfB7D5o0UQKuqy1qklorpX-s-zDc/sendMessage?chat_id=%40rotina_ponto_g4f&text=Marca%C3%A7%C3%A3o+de+ponto+realizada+com+sucesso+ (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self signed certificate in certificate chain (_ssl.c:992)')))
-2025-06-23 14:28:56,214 - WARNING - main - FINALIZADO
-2025-06-23 14:28:56,214 -  WARNING  - FINALIZADO

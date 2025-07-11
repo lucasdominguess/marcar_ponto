@@ -2,15 +2,16 @@ import telebot
 import logging
 from pathlib import Path
 import os
-# from dotenv import load_dotenv
+from dotenv import load_dotenv
 
-# load_dotenv()
-# keyApi = os.getenv('API_TOKEN')
-# chat_id = os.getenv('CHAT_ID')
+load_dotenv()
+keyApi = os.getenv('API_TOKEN')
+chat_id = os.getenv('CHAT_ID')
 
 #criar bot no telegram via botFather 
-keyApi = '7820682159:AAEXo2KxfB7D5o0UQKuqy1qklorpX-s-zDc' #token gerado na criação do bot
-chat_id ="@rotina_ponto_g4f"   #id do chat/grupo  
+# os.getenv('API_TOKEN')
+# keyApi = '7820682159:AAEXo2KxfB7D5o0UQKuqy1qklorpX-s-zDc' #token gerado na criação do bot
+# chat_id ="@rotina_ponto_g4f"   #id do chat/grupo  
 
 # Diretório base e arquivo de log
 base_dir = Path(__file__).resolve().parent
